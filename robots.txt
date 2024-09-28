@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alughnea.github.io/sitemap.alughnea.gz
+Sitemap: https://alughnea.github.io/app/sitemap.alughnea.gz
+Sitemap: https://alughnea.github.io/assets/sitemap.alughnea.gz
+Sitemap: https://alughnea.github.io/css/sitemap.alughnea.gz
+Sitemap: https://alughnea.github.io/data/sitemap.alughnea.gz
+Sitemap: https://alughnea.github.io/includes/sitemap.alughnea.gz
+Sitemap: https://alughnea.github.io/item/sitemap.alughnea.gz
+Sitemap: https://alughnea.github.io/src/sitemap.alughnea.gz
